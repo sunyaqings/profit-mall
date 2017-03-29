@@ -25,7 +25,7 @@ export default {
   name: 'hello',
   data () {
     return {
-      msg: '欢迎来到微利商城'
+      msg: '欢迎来到微利尺寸商城'
     }
   }
 }
